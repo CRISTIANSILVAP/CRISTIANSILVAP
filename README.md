@@ -11,13 +11,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **systems engenieer**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+<!--- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization -->
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **christiansilvap04@hotmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
