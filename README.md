@@ -14,14 +14,7 @@
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
 </div>
-<div align="center">
-    
-   Hi, I'm Cristian Silva 👨‍💻  
-   A passionate software developer who loves building clean, 
-   efficient, and scalable solutions. 
-   I enjoy working across both frontend and backend, 
-   always aiming to improve and learn something new every day.
-  
+<div align="center">  
   -📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
   
   -🌱 I am currently in the race **systems engenieer**
