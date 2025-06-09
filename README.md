@@ -11,21 +11,21 @@
   Hi, I'm Cristian Silva 👨‍💻  
   A passionate software developer who loves building clean, efficient, and scalable solutions. I enjoy working across both frontend and backend, always aiming to improve and learn something new every day.
   
-    📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
+  -📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
   
-    🌱 I am currently in the race **systems engenieer**
+  -🌱 I am currently in the race **systems engenieer**
   
-    📫 How to reach me **christiansilvap04@hotmail.com**
+  -📫 How to reach me **christiansilvap04@hotmail.com**
   
   ### 🧠 Core Skills:
-    Languages: JavaScript, Python, Java  
-    Frameworks: React, Node.js, Express, Spring Boot  
-    Databases: MySQL, MongoDB, PostgreSQL  
-    Tools: Git, Docker, GitHub Actions  
+  -Languages: JavaScript, Python, Java  
+  -Frameworks: React, Node.js, Express, Spring Boot  
+  -Databases: MySQL, MongoDB, PostgreSQL  
+  -Tools: Git, Docker, GitHub Actions  
   
   ### 🚀 Currently Working On:
-  Personal projects focused on automation and REST APIs  
-  Growing my skills in full stack development and software architecture
+  -Personal projects focused on automation and REST APIs  
+  -Growing my skills in full stack development and software architecture
 
 </div>
 
