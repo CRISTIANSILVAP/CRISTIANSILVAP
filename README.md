@@ -41,8 +41,9 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&hide_border=true&title_color=569CD6&text_color=D4D4D4&bg_color=00000000" />
 </div>
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&theme=dark&hide_border=true&title_color=F776C0"
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=569CD6&fire=C586C0&currStreakLabel=9CDCFE&currStreakNum=9CDCFE&sideLabels=D4D4D4&sideNums=D4D4D4&dates=D4D4D4&stroke=D4D4D4" />
 </p>
+
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/githubbanner.gif" width="100%">
