@@ -20,6 +20,11 @@
   <!-- TROFEOS GITHUB -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=oldie&column=7" alt="CRISTIANSILVAP" /></a> </p>
 
+<!-- TROFEOS GITHUB -->
+<h3 align="center">Stats:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=oldie&column=-1" alt="andermendoza" /></a> </p>
+
+
 <!-- CONTACTO -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
