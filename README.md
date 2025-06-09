@@ -20,9 +20,7 @@
   -🌱 I am currently in the race **systems engenieer**
   
   -📫 How to reach me **christiansilvap04@hotmail.com**
-  </div>
-  
-  <div align="center">
+
   ### 🧠 Core Skills
   -Languages: JavaScript, Python, Java  
   -Frameworks: React, Node.js, Express, Spring Boot  
