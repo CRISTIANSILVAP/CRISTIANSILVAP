@@ -28,13 +28,8 @@
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&langs_count=8"/>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&langs_count=8" width="49%" />
-</p>
 
 
 <!-- GIF FOOTER -->
