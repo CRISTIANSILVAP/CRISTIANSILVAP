@@ -4,39 +4,41 @@
 
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;Welcome+to+my+profile!)
-<!-- BREVE DESCRIPCION -->  
- 
-  <div style="text-align: center">
+<!-- BREVE DESCRIPCION --> 
+<div style="text-align: center;">
   
-  <p>
-    Hi, I'm Cristian Silva 👨‍💻<br>
-    A passionate software developer who loves building clean,<br>
-    efficient, and scalable solutions.<br>
-    I enjoy working across both frontend and backend,<br>
+  <p style="text-align: left; max-width: 600px; margin: 0 auto;">
+    Hi, I'm Cristian Silva 👨‍💻  
+    A passionate software developer who loves building clean, 
+    efficient, and scalable solutions. 
+    I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
   </p>
   
-  <p>
-    📚 I am currently studying at <a href="https://www.escuelaing.edu.co/es/" target="_blank" rel="noopener noreferrer">Escuela Colombiana de Ingeniería Julio Garavito</a><br>
-    🌱 I am currently in the race <strong>systems engineer</strong><br>
-    📫 How to reach me <strong>christiansilvap04@hotmail.com</strong>
-  </p>
-  
-  <h3>🧠 Core Skills</h3>
-  <p>
-    Languages: JavaScript, Python, Java<br>
-    Frameworks: React, Node.js, Express, Spring Boot<br>
-    Databases: MySQL, MongoDB, PostgreSQL<br>
-    Tools: Git, Docker, GitHub Actions
-  </p>
-  
-  <h3>🚀 Currently Working On</h3>
-  <p>
-    Personal projects focused on automation and REST APIs<br>
-    Growing my skills in full stack development and software architecture
-  </p>
+  <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: 20px auto;">
+    <li>📚 I am currently studying at <a href="https://www.escuelaing.edu.co/es/">Escuela Colombiana de ingeniería Julio Garavito</a></li>
+    <li>🌱 I am currently in the race <strong>systems engineer</strong></li>
+    <li>📫 How to reach me <strong>christiansilvap04@hotmail.com</strong></li>
+  </ul>
+
+  <h3 style="text-align: center;">🧠 Core Skills</h3>
+  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
+    <li>Languages: JavaScript, Python, Java</li>
+    <li>Frameworks: React, Node.js, Express, Spring Boot</li>
+    <li>Databases: MySQL, MongoDB, PostgreSQL</li>
+    <li>Tools: Git, Docker, GitHub Actions</li>
+  </ul>
+
+  <h3 style="text-align: center;">🚀 Currently Working On</h3>
+  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
+    <li>Personal projects focused on automation and REST APIs</li>
+    <li>Growing my skills in full stack development and software architecture</li>
+  </ul>
 
 </div>
+
+ 
+ 
 
 
 
