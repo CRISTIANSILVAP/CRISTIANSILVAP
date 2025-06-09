@@ -5,7 +5,8 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION --> 
-<div style="text-align: center;">
+
+<div style="text-align: center; max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.5;">
   
   <p style="text-align: center; max-width: 800px; margin: 0 auto;">
     Hi, I'm Cristian Silva 👨‍💻  
@@ -15,6 +16,7 @@
     always aiming to improve and learn something new every day.
 </div>
 <div align="center">  
+  
   -📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
   
   -🌱 I am currently in the race **systems engenieer**
