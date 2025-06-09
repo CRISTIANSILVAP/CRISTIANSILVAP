@@ -8,14 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dracula&column=7" alt="CRISTIANSILVAP" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
 - 🌱 I am currently in the race **systems engenieer**
-
-<!--- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization -->
 
 - 📫 How to reach me **christiansilvap04@hotmail.com**
 
