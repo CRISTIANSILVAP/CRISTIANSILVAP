@@ -7,7 +7,7 @@
 <!-- BREVE DESCRIPCION --> 
 <div style="text-align: center;">
   
-  <p style="text-align: center; max-width: 600px; margin: 0 auto;">
+  <p style="text-align: center; max-width: 800px; margin: 0 auto;">
     Hi, I'm Cristian Silva 👨‍💻  
     A passionate software developer who loves building clean, 
     efficient, and scalable solutions. 
