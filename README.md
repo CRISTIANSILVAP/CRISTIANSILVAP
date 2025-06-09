@@ -52,7 +52,8 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&hide_border=true&title_color=CCCCCC&text_color=FFFFFF&bg_color=00000000" />
 </div>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=CCCCCC&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&s_
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=CCCCCC&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=CCCCCC&dates=FFFFFF&stroke=CCCCCC" />
+</p>
 
 
 
