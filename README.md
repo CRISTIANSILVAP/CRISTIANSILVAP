@@ -1,6 +1,6 @@
 
 <!-- GIF HEADER -->
-<img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/githubbanner.gif" width="100%" height="50%">
+<img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/images/imgbaner.jpeg" width="100%" height="50%">
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dracula&column=7" alt="CRISTIANSILVAP" /></a> </p>
 
