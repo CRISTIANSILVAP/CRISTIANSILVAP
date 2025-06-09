@@ -1,15 +1,16 @@
 
 <!-- GIF HEADER -->
-<img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/images/imgbaner.jpeg" width="100%" height="50%">
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dracula&column=7" alt="CRISTIANSILVAP" /></a> </p>
-
+<img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/images/githubbanner.gif" width="100%" height="50%">
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
 - 🌱 I am currently in the race **systems engenieer**
 
 - 📫 How to reach me **christiansilvap04@hotmail.com**
+
+- <!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dracula&column=7" alt="CRISTIANSILVAP" /></a> </p>
+
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
