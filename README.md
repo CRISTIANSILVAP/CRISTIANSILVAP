@@ -13,29 +13,32 @@
     efficient, and scalable solutions. 
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
-  </p>
-  
-  <ul style="list-style: none; padding: 0; text-align: center; max-width: 1200px; margin: 20px auto;">
-    <li>📚 I am currently studying at <a href="https://www.escuelaing.edu.co/es/">Escuela Colombiana de ingeniería Julio Garavito</a></li>
-    <li>🌱 I am currently in the race <strong>systems engineer</strong></li>
-    <li>📫 How to reach me <strong>christiansilvap04@hotmail.com</strong></li>
-  </ul>
-
-  <h3 style="text-align: center;">🧠 Core Skills</h3>
-  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
-    <li>Languages: JavaScript, Python, Java</li>
-    <li>Frameworks: React, Node.js, Express, Spring Boot</li>
-    <li>Databases: MySQL, MongoDB, PostgreSQL</li>
-    <li>Tools: Git, Docker, GitHub Actions</li>
-  </ul>
-
-  <h3 style="text-align: center;">🚀 Currently Working On</h3>
-  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
-    <li>Personal projects focused on automation and REST APIs</li>
-    <li>Growing my skills in full stack development and software architecture</li>
-  </ul>
-
 </div>
+<div align="center">
+    
+   Hi, I'm Cristian Silva 👨‍💻  
+   A passionate software developer who loves building clean, 
+   efficient, and scalable solutions. 
+   I enjoy working across both frontend and backend, 
+   always aiming to improve and learn something new every day.
+  
+  -📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
+  
+  -🌱 I am currently in the race **systems engenieer**
+  
+  -📫 How to reach me **christiansilvap04@hotmail.com**
+
+  ### 🧠 Core Skills
+  -Languages: JavaScript, Python, Java  
+  -Frameworks: React, Node.js, Express, Spring Boot  
+  -Databases: MySQL, MongoDB, PostgreSQL  
+  -Tools: Git, Docker, GitHub Actions  
+  
+  ### 🚀 Currently Working On
+  -Personal projects focused on automation and REST APIs  
+  -Growing my skills in full stack development and software architecture
+
+  </div>
 
  
  
