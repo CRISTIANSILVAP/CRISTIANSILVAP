@@ -1,6 +1,9 @@
 
 <!-- GIF HEADER -->
 <img src="https://github.com/CRISTIANSILVAP/CRISTIANSILVAP/blob/main/images/images/githubbanner.gif" width="100%" height="50%">
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;I'm+from+Peru;I'm+22+years-old;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
@@ -27,7 +30,7 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
