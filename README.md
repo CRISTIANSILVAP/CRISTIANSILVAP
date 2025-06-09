@@ -35,9 +35,10 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&count_private=true&hide_border=true&title_color=569CD6&icon_color=C586C0&text_color=D4D4D4&bg_color=00000000" 
+       alt="CRISTIANSILVAP GitHub stats" />  
   
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&hide_border=true&title_color=569CD6&text_color=D4D4D4&bg_color=00000000" />
 </div>
 <!-- STATS Y LENGUAJES MÁS USADOS -->
 <div align="center">  
