@@ -6,11 +6,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;I'm+from+Peru;I'm+22+years-old;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION -->
 <div align="center">
-- 📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
+  📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
-- 🌱 I am currently in the race **systems engenieer**
+  🌱 I am currently in the race **systems engenieer**
 
-- 📫 How to reach me **christiansilvap04@hotmail.com**
+  📫 How to reach me **christiansilvap04@hotmail.com**
 </div>
 
   <!-- TROFEOS GITHUB -->
