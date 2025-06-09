@@ -15,7 +15,7 @@
     always aiming to improve and learn something new every day.
   </p>
   
-  <ul style="list-style: none; padding: 0; text-align: center; max-width: 600px; margin: 20px auto;">
+  <ul style="list-style: none; padding: 0; text-align: center; max-width: 1200px; margin: 20px auto;">
     <li>📚 I am currently studying at <a href="https://www.escuelaing.edu.co/es/">Escuela Colombiana de ingeniería Julio Garavito</a></li>
     <li>🌱 I am currently in the race <strong>systems engineer</strong></li>
     <li>📫 How to reach me <strong>christiansilvap04@hotmail.com</strong></li>
