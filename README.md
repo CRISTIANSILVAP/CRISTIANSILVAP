@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **christiansilvap04@hotmail.com**
 
-- <!-- TROFEOS GITHUB -->
+  <!-- TROFEOS GITHUB -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dracula&column=7" alt="CRISTIANSILVAP" /></a> </p>
 
 
