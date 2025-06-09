@@ -30,6 +30,38 @@
   -Growing my skills in full stack development and software architecture
 
   </div>
+  <div style="text-align: center;">
+  
+  <p style="text-align: left; max-width: 600px; margin: 0 auto;">
+    Hi, I'm Cristian Silva 👨‍💻  
+    A passionate software developer who loves building clean, 
+    efficient, and scalable solutions. 
+    I enjoy working across both frontend and backend, 
+    always aiming to improve and learn something new every day.
+  </p>
+  
+  <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: 20px auto;">
+    <li>📚 I am currently studying at <a href="https://www.escuelaing.edu.co/es/">Escuela Colombiana de ingeniería Julio Garavito</a></li>
+    <li>🌱 I am currently in the race <strong>systems engineer</strong></li>
+    <li>📫 How to reach me <strong>christiansilvap04@hotmail.com</strong></li>
+  </ul>
+
+  <h3 style="text-align: center;">🧠 Core Skills</h3>
+  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
+    <li>Languages: JavaScript, Python, Java</li>
+    <li>Frameworks: React, Node.js, Express, Spring Boot</li>
+    <li>Databases: MySQL, MongoDB, PostgreSQL</li>
+    <li>Tools: Git, Docker, GitHub Actions</li>
+  </ul>
+
+  <h3 style="text-align: center;">🚀 Currently Working On</h3>
+  <ul style="list-style: none; padding: 0; max-width: 600px; margin: 0 auto; text-align: left;">
+    <li>Personal projects focused on automation and REST APIs</li>
+    <li>Growing my skills in full stack development and software architecture</li>
+  </ul>
+
+</div>
+
 
 
 <!-- TROFEOS GITHUB -->
