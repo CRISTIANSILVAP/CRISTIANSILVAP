@@ -7,7 +7,8 @@
 <!-- BREVE DESCRIPCION -->
 
 <div align="center">
-    ### 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
+    
   Hi, I'm Cristian Silva 👨‍💻  
   A passionate software developer who loves building clean, efficient, and scalable solutions. I enjoy working across both frontend and backend, always aiming to improve and learn something new every day.
   
@@ -17,13 +18,13 @@
   
   -📫 How to reach me **christiansilvap04@hotmail.com**
   
-  ### 🧠 Core Skills:
+  ### 🧠 Core Skills
   -Languages: JavaScript, Python, Java  
   -Frameworks: React, Node.js, Express, Spring Boot  
   -Databases: MySQL, MongoDB, PostgreSQL  
   -Tools: Git, Docker, GitHub Actions  
   
-  ### 🚀 Currently Working On:
+  ### 🚀 Currently Working On
   -Personal projects focused on automation and REST APIs  
   -Growing my skills in full stack development and software architecture
 
