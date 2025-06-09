@@ -5,30 +5,29 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION -->
-## 🙋‍♂️ About Me
-
-Hi, I'm Cristian Silva 👨‍💻  
-A passionate software developer who loves building clean, efficient, and scalable solutions. I enjoy working across both frontend and backend, always aiming to improve and learn something new every day.
-
-
 <div align="center">
+  ## 🙋‍♂️ About Me
   
-  📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
+  Hi, I'm Cristian Silva 👨‍💻  
+  A passionate software developer who loves building clean, efficient, and scalable solutions. I enjoy working across both frontend and backend, always aiming to improve and learn something new every day.
+  
+    📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
+  
+    🌱 I am currently in the race **systems engenieer**
+  
+    📫 How to reach me **christiansilvap04@hotmail.com**
+  
+  ### 🧠 Core Skills:
+  - Languages: JavaScript, Python, Java  
+  - Frameworks: React, Node.js, Express, Spring Boot  
+  - Databases: MySQL, MongoDB, PostgreSQL  
+  - Tools: Git, Docker, GitHub Actions  
+  
+  ### 🚀 Currently Working On:
+  - Personal projects focused on automation and REST APIs  
+  - Growing my skills in full stack development and software architecture
 
-  🌱 I am currently in the race **systems engenieer**
-
-  📫 How to reach me **christiansilvap04@hotmail.com**
 </div>
-
-### 🧠 Core Skills:
-- Languages: JavaScript, Python, Java  
-- Frameworks: React, Node.js, Express, Spring Boot  
-- Databases: MySQL, MongoDB, PostgreSQL  
-- Tools: Git, Docker, GitHub Actions  
-
-### 🚀 Currently Working On:
-- Personal projects focused on automation and REST APIs  
-- Growing my skills in full stack development and software architecture
 
 
 <!-- TROFEOS GITHUB -->
