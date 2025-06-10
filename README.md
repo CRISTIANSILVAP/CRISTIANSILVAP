@@ -6,17 +6,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION --> 
 
-
-<div style="text-align: center; max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.5;">
-  
-  <p style="text-align: center; max-width: 300px; margin: 0 auto;">
+<div align="center">
     Hi, I'm Cristian Silva 👨‍💻  
     A passionate software developer who loves building clean, 
     efficient, and scalable solutions. 
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
-  </p> 
-</div>
+</div>  
+
 <div align="center">  
   
   -📚 I am currently studying at [Escuela Colombiana de ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
