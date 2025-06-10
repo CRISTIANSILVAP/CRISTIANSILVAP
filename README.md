@@ -6,13 +6,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Cristian;Welcome+to+my+profile!)
 <!-- BREVE DESCRIPCION --> 
 
-<div align="center">
+<p align="center">
     Hi, I'm Cristian Silva 👨‍💻  
     A passionate software developer who loves building clean, 
     efficient, and scalable solutions. 
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
-</div>  
+
+</p> 
+
 
 <div align="center">  
   
