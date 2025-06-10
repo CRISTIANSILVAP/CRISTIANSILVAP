@@ -7,14 +7,14 @@
 <!-- BREVE DESCRIPCION --> 
 
 
-  
-  <p style="text-align: center; max-width: 800px; margin: 0 auto;">
+<div style="text-align: center; max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.5;">
     Hi, I'm Cristian Silva 👨‍💻  
     A passionate software developer who loves building clean, 
     efficient, and scalable solutions. 
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
-  </p> 
+ 
+</div>
 
 <div align="center">  
   
