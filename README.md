@@ -45,16 +45,6 @@
 <h3 align="center">Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=oldie&column=-1" alt="CRISTIANSILVAP" /></a> </p>
 
-
-<!-- CONTACTO -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="USERNAME" height="30" width="40" /></a>
-<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="USERNAME" height="30" width="40" /></a>
-<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@" height="30" width="40" /></a>
-<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="USERNAME" height="30" width="40" /></a>
-</p>
-
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -78,6 +68,15 @@
 </div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=555555&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=CCCCCC&dates=FFFFFF&stroke=CCCCCC" />
+</p>
+
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="USERNAME" height="30" width="40" /></a>
+<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="USERNAME" height="30" width="40" /></a>
+<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@" height="30" width="40" /></a>
+<a href="LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="USERNAME" height="30" width="40" /></a>
 </p>
 
 
