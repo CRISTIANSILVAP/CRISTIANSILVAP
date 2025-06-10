@@ -14,6 +14,7 @@
     efficient, and scalable solutions. 
     I enjoy working across both frontend and backend, 
     always aiming to improve and learn something new every day.
+  </p> 
 </div>
 <div align="center">  
   
