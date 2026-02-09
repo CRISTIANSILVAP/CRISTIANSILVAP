@@ -61,7 +61,7 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAP-c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1%22&show_icons=true&count_private=true&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000" 
+  <img width="53%" height="195px" src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAPc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1%22&show_icons=true&count_private=true&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000" 
        alt="CRISTIANSILVAP GitHub stats" />  
   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000" />
