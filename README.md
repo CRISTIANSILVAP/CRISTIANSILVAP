@@ -26,8 +26,11 @@
 
   ### 🧠 Core Skills
   -Languages: JavaScript, Python, Java, TypeScript 
+  
   -Frameworks: React, Node.js, Fastify, Spring Boot, FastApi
-  -Databases: MySQL, MongoDB, PostgreSQL  
+  
+  -Databases: MySQL, MongoDB, PostgreSQL 
+  
   -Tools: Git, Docker, GitHub Actions, AzureDevOps
   
   ### 🚀 Currently Working On
