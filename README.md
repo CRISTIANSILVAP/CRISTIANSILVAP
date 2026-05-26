@@ -25,10 +25,10 @@
   -📫 How to reach me **christiansilvap04@hotmail.com**
 
   ### 🧠 Core Skills
-  -Languages: JavaScript, Python, Java  
-  -Frameworks: React, Node.js, Express, Spring Boot  
+  -Languages: JavaScript, Python, Java, TypeScript 
+  -Frameworks: React, Node.js, Fastify, Spring Boot, FastApi
   -Databases: MySQL, MongoDB, PostgreSQL  
-  -Tools: Git, Docker, GitHub Actions  
+  -Tools: Git, Docker, GitHub Actions, AzureDevOps
   
   ### 🚀 Currently Working On
   -Personal projects focused on automation and REST APIs  
