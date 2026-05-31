@@ -45,7 +45,9 @@
 
 <!-- TROFEOS GITHUB -->
 <h3 align="center">Stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=dark_lover" alt="CRISTIANSILVAP" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=darkhub" alt="CRISTIANSILVAP" /></a> 
+    
+</p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center">Languages and Tools:</h3>
