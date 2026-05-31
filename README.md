@@ -37,18 +37,6 @@
   -Growing my skills in full stack development and software architecture
 
   </div>
-
- 
- 
-
-
-
-<!-- TROFEOS GITHUB -->
-<h3 align="center">Stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=darkhub" alt="CRISTIANSILVAP" /></a> 
-    
-</p>
-
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -89,6 +77,16 @@
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="40" height="40"/>
 </a>
 
+</p>
+ 
+ 
+
+
+
+<!-- TROFEOS GITHUB -->
+<h3 align="center">Stats:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=darkhub" alt="CRISTIANSILVAP" /></a> 
+    
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
