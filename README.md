@@ -91,24 +91,20 @@
 
 </p>
 
-<!-- STATS + TOP LANGUAGES -->
+<!-- STATS Y LENGUAJES MAS USADOS -->
 <div align="center">
+  <img width="53%" height="195px"
+       src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000"
+       alt="CRISTIANSILVAP GitHub Stats" />
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&langs_count=8&theme=gotham&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000"/>
-
+  <img width="45%" height="195px"
+       src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000"
+       alt="Top Languages" />
 </div>
 
-<br>
-
-<!-- STREAK -->
-<div align="center">
-  <img width="70%"
-       src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=555555&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=CCCCCC&dates=FFFFFF&stroke=CCCCCC"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=555555&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=CCCCCC&dates=FFFFFF&stroke=CCCCCC" />
+</p>
 
 <!-- CONTACTO -->
 <h3 align="center">Contact me:</h3>
