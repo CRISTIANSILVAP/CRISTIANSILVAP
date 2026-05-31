@@ -92,16 +92,14 @@
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div align="center">  
-
+<div align="center">
   <img width="53%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&count_private=true&theme=gotham&hide_border=true"
-       alt="GitHub Stats" />
+       src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000"
+       alt="CRISTIANSILVAP GitHub Stats" />
 
   <img width="45%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&hide_border=true"
+       src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000"
        alt="Top Languages" />
-
 </div>
 
 <p align="center">
