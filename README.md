@@ -83,25 +83,35 @@
 
 
 
-<!-- TROFEOS GITHUB -->
-<h3 align="center">Stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=darkhub" alt="CRISTIANSILVAP" /></a> 
-    
-</p>
+<!-- ===================== STATS ===================== -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div align="center">
-  <img width="53%" height="195px"
-       src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000"
-       alt="CRISTIANSILVAP GitHub Stats" />
-
-  <img width="45%" height="195px"
-       src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000"
-       alt="Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img height="180em"
+        src="https://github-readme-stats-delta-six-18.vercel.app/api?username=CRISTIANSILVAP&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&title_color=555555&icon_color=BBBBBB&text_color=FFFFFF&bg_color=00000000"
+        alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img height="180em"
+        src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs/?username=CRISTIANSILVAP&layout=compact&theme=gotham&hide_border=true&title_color=555555&text_color=FFFFFF&bg_color=00000000"
+        alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CRISTIANSILVAP&hide_border=true&background=00000000&ring=555555&fire=BBBBBB&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=CCCCCC&dates=FFFFFF&stroke=CCCCCC" />
+</p>
+
+<!-- ===================== TROFEOS ===================== -->
+<h3 align="center">🏆 Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CRISTIANSILVAP&theme=gotham&no-frame=true&column=4&margin-w=10&margin-h=10"
+      alt="CRISTIANSILVAP" />
+  </a>
 </p>
 
 <!-- CONTACTO -->
